@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-gitbook install && gitbook build src docs
+gitbook install src && gitbook build src docs

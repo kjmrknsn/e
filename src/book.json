@@ -1,7 +1,7 @@
 {
   "author": "Keiji Yoshida",
   "description": "e",
-  "plugins": [ "anchors", "code", "edit-link", "github", "-sharing" ],
+  "plugins": [ "anchors", "code", "edit-link", "github", "last-modified", "-sharing" ],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/kjmrknsn/e/edit/master/src",
