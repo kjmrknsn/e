@@ -3,5 +3,11 @@
 ## Build
 
 ```bash
-$ gitbook build src docs
+$ bin/build.sh
+```
+
+## Push
+
+```bash
+$ bin/push.sh
 ```
